@@ -6,6 +6,9 @@ A pixel-perfect, responsive frontend clone of the **[Zomato](https://www.zomato.
 
 ## 🚀 Live Demo & Deployment
 
+- 🔗 **Live URL:** `https://zomato-rahul-dev.vercel.app/`
+---
+
 ## ✨ Features
 
 - 🌟 **Hero / Navigation Header:**
